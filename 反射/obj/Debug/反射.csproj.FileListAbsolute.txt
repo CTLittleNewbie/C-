@@ -1,0 +1,7 @@
+F:\CSharpProgramming\CShaparTest\反射\bin\Debug\反射.exe.config
+F:\CSharpProgramming\CShaparTest\反射\bin\Debug\反射.exe
+F:\CSharpProgramming\CShaparTest\反射\bin\Debug\反射.pdb
+F:\CSharpProgramming\CShaparTest\反射\obj\Debug\反射.csprojAssemblyReference.cache
+F:\CSharpProgramming\CShaparTest\反射\obj\Debug\反射.csproj.CoreCompileInputs.cache
+F:\CSharpProgramming\CShaparTest\反射\obj\Debug\反射.exe
+F:\CSharpProgramming\CShaparTest\反射\obj\Debug\反射.pdb

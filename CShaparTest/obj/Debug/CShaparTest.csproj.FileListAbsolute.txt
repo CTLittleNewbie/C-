@@ -1,0 +1,7 @@
+F:\CSharpProgramming\CShaparTest\CShaparTest\bin\Debug\CShaparTest.exe.config
+F:\CSharpProgramming\CShaparTest\CShaparTest\bin\Debug\CShaparTest.exe
+F:\CSharpProgramming\CShaparTest\CShaparTest\bin\Debug\CShaparTest.pdb
+F:\CSharpProgramming\CShaparTest\CShaparTest\obj\Debug\CShaparTest.csprojAssemblyReference.cache
+F:\CSharpProgramming\CShaparTest\CShaparTest\obj\Debug\CShaparTest.csproj.CoreCompileInputs.cache
+F:\CSharpProgramming\CShaparTest\CShaparTest\obj\Debug\CShaparTest.exe
+F:\CSharpProgramming\CShaparTest\CShaparTest\obj\Debug\CShaparTest.pdb
